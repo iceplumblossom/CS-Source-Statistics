@@ -1,6 +1,6 @@
 ## CS Source Statistics
 
-This script will take the text file as input, to which the CS Source Console is written. Then, There will be calculate and show what happened in the game time, in which you play or watch the rounds. It will be no distinction between teams and rounds. It is a very bold calculation. Who attacks whom and with which weapon? That's all.
+This script will take the text file as input, to which the CS Source Console is written. Then, it will calculate and show what happened in the game time, in which you play or watch the rounds. There will be no distinction between teams and rounds. It is a very bold calculation. Who attacks whom and with which weapon? That's all.
 
 When you start the game, enter the command
 ```
