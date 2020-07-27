@@ -31,9 +31,7 @@ It will create an html file and open it with default browser.
 
 Here is an example:
 
-<p><img src="" alt="example_screeb" /></p>
-
-example_result
+<p><img src="https://github.com/seyitalitek/CS-Source-Statistics-/blob/master/example_result.jpg" alt="example_screen" /></p>
 
 ### Problems
 
