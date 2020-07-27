@@ -1,0 +1,232 @@
+m_face->glyph->bitmap.width is 0 for ch:32 Verdana
+maxplayers set to 32
+Unknown command "setmaster"
+maxplayers set to 32
+Network: IP 127.0.1.1, mode MP, dedicated No, ports 27015 SV / 27005 CL
+Using map cycle file 'cfg/mapcycle_default.txt'.  ('cfg/mapcycle.txt' was not found.)
+Error: Material "models/humans/female/pupil_r" uses unknown shader "Eyeball"
+Error: Material "models/humans/female/pupil_l" uses unknown shader "Eyeball"
+Set motd from file 'cfg/motd_default.txt'.  ('cfg/motd.txt' was not found.)
+Set motd_text from file 'cfg/motd_text_default.txt'.  ('cfg/motd_text.txt' was not found.)
+SV_ActivateServer: setting tickrate to 66.7
+'listenserver.cfg' not present; not executing.
+
+Counter-Strike: Source
+Map: fy_iceworld_l33t
+Players: 1 / 32
+Build: 5394425
+Server Number: 1
+
+The server is using sv_pure 0.  (Enforcing consistency for select files only)
+Warning: using WorldTwoTextureBlend on a non-displacement surface.
+Support for this will go away soon.
+   - Material       : ground/blendsnow_asphault
+   - Surface center : 226 652 -512
+Warning: WorldTwoTextureBlend found on a non-displacement surface (material: ground/blendsnow_asphault). This wastes perf for no benefit.
+Voice_Init: Using Steam voice optimal sample rate 24000
+Loading 'cfg/autobuy_default.txt'
+Loading 'cfg/rebuy_default.txt'
+Requesting texture value from var "$basetexture" which is not a texture value (material: dev/bloomadd)
+Requesting texture value from var "$basetexture" which is not a texture value (material: dev/no_pixel_write)
+Requesting texture value from var "$basetexture" which is not a texture value (material: dev/lumcompare)
+Game will not start until both teams have players.
+seyitali nimmt teil.
+Eine Wertung erfolgt erst, wenn beide Teams Spieler haben.
+Mr.  Quintin nimmt teil.
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+m_face->glyph->bitmap.width is 0 for ch:32 Verdana
+m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+Mr.  Rip nimmt teil.
+Mr.  Pheonix nimmt teil.
+Mr.  Minh nimmt teil.
+Mr.  Steel nimmt teil.
+Mr.  Crusher nimmt teil.
+m_face->glyph->bitmap.width is 0 for ch:32 Verdana
+m_face->glyph->bitmap.width is 0 for ch:32 Trebuchet MS
+m_face->glyph->bitmap.width is 0 for ch:32 Verdana
+Mr.  Quintin killed Mr.  Rip with ump45.
+Mr.  Minh killed Mr.  Steel with m4a1.
+Mr.  Minh killed Mr.  Quintin with m4a1.
+Mr.  Crusher killed Mr.  Pheonix with ak47.
+m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+m_face->glyph->bitmap.width is 0 for ch:32 Verdana
+CT bot spawned outside of a buy zone (-348, -872, -506)
+CT bot spawned outside of a buy zone (-240, -876, -506)
+CT bot spawned outside of a buy zone (236, -868, -506)
+Terrorist bot spawned outside of a buy zone (-252, 860, -509)
+Terrorist bot spawned outside of a buy zone (-448, 768, -509)
+Terrorist bot spawned outside of a buy zone (-480, 864, -509)
+Mr.  Crusher killed Mr.  Quintin with galil.
+Mr.  Minh killed Mr.  Steel with p90.
+Mr.  Rip killed Mr.  Pheonix with mp5navy.
+m_face->glyph->bitmap.width is 0 for ch:160 DejaVu Sans
+CT bot spawned outside of a buy zone (356, -868, -506)
+CT bot spawned outside of a buy zone (492, -864, -506)
+CT bot spawned outside of a buy zone (216, -776, -506)
+Terrorist bot spawned outside of a buy zone (-328, 760, -509)
+Terrorist bot spawned outside of a buy zone (-360, 856, -509)
+Terrorist bot spawned outside of a buy zone (224, 768, -509)
+Mr.  Rip killed Mr.  Steel with mp5navy.
+Mr.  Pheonix killed Mr.  Minh with ump45.
+Mr.  Pheonix killed Mr.  Rip with ump45.
+Mr.  Quintin killed Mr.  Crusher with galil.
+CT bot spawned outside of a buy zone (336, -772, -506)
+CT bot spawned outside of a buy zone (448, -768, -506)
+CT bot spawned outside of a buy zone (-216, -780, -506)
+Terrorist bot spawned outside of a buy zone (448, 768, -509)
+Terrorist bot spawned outside of a buy zone (340, 768, -509)
+Terrorist bot spawned outside of a buy zone (260, 860, -509)
+Mr.  Minh killed Mr.  Pheonix with p90.
+m_face->glyph->bitmap.width is 0 for ch:32 Verdana
+m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+Mr.  Steel killed Mr.  Crusher with m4a1.
+Mr.  Steel killed Mr.  Minh with m4a1.
+Mr.  Quintin killed Mr.  Rip with galil.
+Terrorist bot spawned outside of a buy zone (376, 860, -506)
+Terrorist bot spawned outside of a buy zone (484, 860, -506)
+Terrorist bot spawned outside of a buy zone (-220, 764, -506)
+CT bot spawned outside of a buy zone (-448, -768, -509)
+CT bot spawned outside of a buy zone (-324, -776, -509)
+CT bot spawned outside of a buy zone (-492, -864, -509)
+Mr.  Minh killed Mr.  Pheonix with p90.
+Mr.  Minh killed Mr.  Quintin with p90.
+Mr.  Steel killed Mr.  Crusher with m4a1.
+Mr.  Rip killed Mr.  Steel with m4a1.
+CT bot spawned outside of a buy zone (-348, -872, -506)
+CT bot spawned outside of a buy zone (-240, -876, -506)
+CT bot spawned outside of a buy zone (236, -868, -506)
+Terrorist bot spawned outside of a buy zone (-252, 860, -509)
+Terrorist bot spawned outside of a buy zone (-448, 768, -509)
+Terrorist bot spawned outside of a buy zone (-480, 864, -509)
+Mr.  Quintin killed Mr.  Rip with glock.
+Mr.  Crusher killed Mr.  Steel with usp.
+Mr.  Minh suicided.
+Mr.  Crusher killed Mr.  Quintin with usp.
+Mr.  Pheonix killed Mr.  Crusher with galil.
+Terrorist bot spawned outside of a buy zone (-328, 760, -506)
+Terrorist bot spawned outside of a buy zone (-360, 856, -506)
+Terrorist bot spawned outside of a buy zone (224, 768, -506)
+CT bot spawned outside of a buy zone (356, -868, -509)
+CT bot spawned outside of a buy zone (492, -864, -509)
+CT bot spawned outside of a buy zone (216, -776, -509)
+Mr.  Pheonix killed Mr.  Minh with aug.
+Mr.  Pheonix killed Mr.  Rip with aug.
+Mr.  Crusher killed Mr.  Pheonix with scout.
+Mr.  Quintin killed Mr.  Crusher with m4a1.
+Terrorist bot spawned outside of a buy zone (448, 768, -506)
+Terrorist bot spawned outside of a buy zone (340, 768, -506)
+Terrorist bot spawned outside of a buy zone (260, 860, -506)
+CT bot spawned outside of a buy zone (336, -772, -509)
+CT bot spawned outside of a buy zone (448, -768, -509)
+CT bot spawned outside of a buy zone (-216, -780, -509)
+Mr.  Pheonix killed Mr.  Crusher with famas.
+Mr.  Rip killed Mr.  Pheonix with sg552.
+Mr.  Rip killed Mr.  Steel with sg552.
+Mr.  Quintin killed Mr.  Rip with m4a1.
+Mr.  Quintin killed Mr.  Minh with m4a1.
+CT bot spawned outside of a buy zone (-448, -768, -506)
+CT bot spawned outside of a buy zone (-324, -776, -506)
+CT bot spawned outside of a buy zone (-492, -864, -506)
+Terrorist bot spawned outside of a buy zone (376, 860, -509)
+Terrorist bot spawned outside of a buy zone (484, 860, -509)
+Terrorist bot spawned outside of a buy zone (-220, 764, -509)
+Mr.  Rip killed Mr.  Steel with usp.
+Mr.  Pheonix killed Mr.  Crusher with glock.
+Mr.  Quintin killed Mr.  Rip with m4a1.
+Mr.  Minh killed Mr.  Quintin with ak47.
+Mr.  Minh killed Mr.  Pheonix with ak47.
+Terrorist bot spawned outside of a buy zone (-252, 860, -506)
+Terrorist bot spawned outside of a buy zone (-448, 768, -506)
+Terrorist bot spawned outside of a buy zone (-480, 864, -506)
+CT bot spawned outside of a buy zone (-348, -872, -509)
+CT bot spawned outside of a buy zone (-240, -876, -509)
+CT bot spawned outside of a buy zone (236, -868, -509)
+Mr.  Quintin killed Mr.  Rip with glock.
+Mr.  Minh killed Mr.  Quintin with p90.
+Mr.  Minh killed Mr.  Pheonix with p90.
+Mr.  Steel killed Mr.  Crusher with m4a1.
+Mr.  Minh killed Mr.  Steel with p90.
+Terrorist bot spawned outside of a buy zone (-328, 760, -506)
+Terrorist bot spawned outside of a buy zone (-360, 856, -506)
+Terrorist bot spawned outside of a buy zone (224, 768, -511)
+CT bot spawned outside of a buy zone (356, -868, -509)
+CT bot spawned outside of a buy zone (492, -864, -509)
+CT bot spawned outside of a buy zone (216, -776, -509)
+Mr.  Minh killed Mr.  Quintin with p90.
+Mr.  Steel killed Mr.  Crusher with glock.
+Mr.  Rip killed Mr.  Pheonix with sg552.
+Mr.  Steel killed Mr.  Rip with glock.
+Mr.  Steel killed Mr.  Minh with glock.
+Terrorist bot spawned outside of a buy zone (448, 768, -506)
+Terrorist bot spawned outside of a buy zone (340, 768, -506)
+Terrorist bot spawned outside of a buy zone (260, 860, -506)
+CT bot spawned outside of a buy zone (336, -772, -509)
+CT bot spawned outside of a buy zone (448, -768, -509)
+CT bot spawned outside of a buy zone (-216, -780, -509)
+Mr.  Minh killed Mr.  Quintin with p90.
+Mr.  Pheonix killed Mr.  Minh with glock.
+Mr.  Crusher killed Mr.  Steel with galil.
+Mr.  Crusher killed Mr.  Pheonix with galil.
+Terrorist bot spawned outside of a buy zone (376, 860, -506)
+Terrorist bot spawned outside of a buy zone (484, 860, -506)
+Terrorist bot spawned outside of a buy zone (-220, 764, -506)
+CT bot spawned outside of a buy zone (-448, -768, -511)
+CT bot spawned outside of a buy zone (-324, -776, -509)
+CT bot spawned outside of a buy zone (-492, -864, -509)
+Mr.  Rip killed Mr.  Steel with sg552.
+Mr.  Rip killed Mr.  Pheonix with sg552.
+Mr.  Rip killed Mr.  Quintin with sg552.
+Terrorist bot spawned outside of a buy zone (-252, 860, -506)
+Terrorist bot spawned outside of a buy zone (-448, 768, -506)
+Terrorist bot spawned outside of a buy zone (-480, 864, -506)
+CT bot spawned outside of a buy zone (-348, -872, -509)
+CT bot spawned outside of a buy zone (-240, -876, -509)
+CT bot spawned outside of a buy zone (236, -868, -509)
+Mr.  Steel killed Mr.  Crusher with galil.
+Mr.  Quintin killed Mr.  Minh with famas.
+Mr.  Rip killed Mr.  Quintin with sg552.
+Mr.  Pheonix killed Mr.  Rip with m4a1.
+Terrorist bot spawned outside of a buy zone (-328, 760, -506)
+Terrorist bot spawned outside of a buy zone (-360, 856, -506)
+Terrorist bot spawned outside of a buy zone (224, 768, -506)
+CT bot spawned outside of a buy zone (356, -868, -509)
+CT bot spawned outside of a buy zone (492, -864, -509)
+CT bot spawned outside of a buy zone (216, -776, -509)
+Mr.  Crusher killed Mr.  Quintin with scout.
+Mr.  Rip killed Mr.  Pheonix with usp.
+Mr.  Steel killed Mr.  Minh with m4a1.
+Mr.  Rip killed Mr.  Steel with usp.
+Terrorist bot spawned outside of a buy zone (448, 768, -506)
+Terrorist bot spawned outside of a buy zone (340, 768, -506)
+Terrorist bot spawned outside of a buy zone (260, 860, -506)
+CT bot spawned outside of a buy zone (336, -772, -509)
+CT bot spawned outside of a buy zone (448, -768, -509)
+CT bot spawned outside of a buy zone (-216, -780, -511)
+Mr.  Pheonix killed Mr.  Minh with famas.
+Mr.  Quintin killed Mr.  Rip with m4a1.
+Mr.  Crusher killed Mr.  Steel with usp.
+Mr.  Pheonix killed Mr.  Crusher with famas.
+Terrorist bot spawned outside of a buy zone (376, 860, -506)
+Terrorist bot spawned outside of a buy zone (484, 860, -511)
+Terrorist bot spawned outside of a buy zone (-220, 764, -506)
+CT bot spawned outside of a buy zone (-448, -768, -509)
+CT bot spawned outside of a buy zone (-324, -776, -509)
+CT bot spawned outside of a buy zone (-492, -864, -509)
+Dropped seyitali from server (Disconnect by user.)
+Dropped Mr.  Crusher from server (Server shutting down)
+Dropped Mr.  Steel from server (Server shutting down)
+Dropped Mr.  Minh from server (Server shutting down)
+Dropped Mr.  Pheonix from server (Server shutting down)
+Dropped Mr.  Rip from server (Server shutting down)
+Dropped Mr.  Quintin from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+Shutdown function ShutdownMixerControls() not in list!!!

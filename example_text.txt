@@ -1,0 +1,317 @@
+m_face->glyph->bitmap.width is 0 for ch:32 Verdana
+maxplayers set to 32
+Unknown command "setmaster"
+maxplayers set to 32
+Network: IP 127.0.1.1, mode MP, dedicated No, ports 27015 SV / 27005 CL
+Using map cycle file 'cfg/mapcycle_default.txt'.  ('cfg/mapcycle.txt' was not found.)
+Error: Material "models/humans/female/pupil_r" uses unknown shader "Eyeball"
+Error: Material "models/humans/female/pupil_l" uses unknown shader "Eyeball"
+Set motd from file 'cfg/motd_default.txt'.  ('cfg/motd.txt' was not found.)
+Set motd_text from file 'cfg/motd_text_default.txt'.  ('cfg/motd_text.txt' was not found.)
+SV_ActivateServer: setting tickrate to 66.7
+'listenserver.cfg' not present; not executing.
+
+Counter-Strike: Source
+Map: fy_iceworld_l33t
+Players: 1 / 32
+Build: 5394425
+Server Number: 1
+
+The server is using sv_pure 0.  (Enforcing consistency for select files only)
+Warning: using WorldTwoTextureBlend on a non-displacement surface.
+Support for this will go away soon.
+   - Material       : ground/blendsnow_asphault
+   - Surface center : 226 652 -512
+Warning: WorldTwoTextureBlend found on a non-displacement surface (material: ground/blendsnow_asphault). This wastes perf for no benefit.
+Voice_Init: Using Steam voice optimal sample rate 24000
+Loading 'cfg/autobuy_default.txt'
+Loading 'cfg/rebuy_default.txt'
+Requesting texture value from var "$basetexture" which is not a texture value (material: dev/bloomadd)
+Requesting texture value from var "$basetexture" which is not a texture value (material: dev/no_pixel_write)
+Requesting texture value from var "$basetexture" which is not a texture value (material: dev/lumcompare)
+Game will not start until both teams have players.
+seyitali nimmt teil.
+Eine Wertung erfolgt erst, wenn beide Teams Spieler haben.
+Zed nimmt teil.
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+m_face->glyph->bitmap.width is 0 for ch:32 Verdana
+m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+Moe nimmt teil.
+Stone nimmt teil.
+Ringo nimmt teil.
+Minh nimmt teil.
+Rip nimmt teil.
+m_face->glyph->bitmap.width is 0 for ch:32 Verdana
+m_face->glyph->bitmap.width is 0 for ch:32 Trebuchet MS
+Stone killed Rip with m4a1.
+Zed killed Moe with ump45.
+Stone killed Ringo with m4a1.
+m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+m_face->glyph->bitmap.width is 0 for ch:32 Verdana
+CT bot spawned outside of a buy zone (-348, -872, -506)
+CT bot spawned outside of a buy zone (-240, -876, -506)
+CT bot spawned outside of a buy zone (236, -868, -506)
+Terrorist bot spawned outside of a buy zone (-252, 860, -509)
+Terrorist bot spawned outside of a buy zone (-448, 768, -509)
+Terrorist bot spawned outside of a buy zone (-480, 864, -509)
+Ringo killed Zed with glock.
+Stone killed Ringo with m4a1.
+m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
+m_face->glyph->bitmap.width is 0 for ch:32 Verdana
+Stone killed Rip with m4a1.
+Stone killed Moe with m4a1.
+m_face->glyph->bitmap.width is 0 for ch:160 DejaVu Sans
+CT bot spawned outside of a buy zone (356, -868, -506)
+CT bot spawned outside of a buy zone (492, -864, -506)
+CT bot spawned outside of a buy zone (216, -776, -506)
+Terrorist bot spawned outside of a buy zone (-328, 760, -509)
+Terrorist bot spawned outside of a buy zone (-360, 856, -509)
+Terrorist bot spawned outside of a buy zone (224, 768, -509)
+Minh killed Ringo with p90.
+Minh killed Moe with p90.
+Minh killed Rip with p90.
+Terrorist bot spawned outside of a buy zone (448, 768, -511)
+Terrorist bot spawned outside of a buy zone (340, 768, -506)
+Terrorist bot spawned outside of a buy zone (260, 860, -506)
+CT bot spawned outside of a buy zone (336, -772, -509)
+CT bot spawned outside of a buy zone (448, -768, -509)
+CT bot spawned outside of a buy zone (-216, -780, -511)
+Stone killed Moe with knife.
+Ringo killed Stone with knife.
+Ringo killed Zed with glock.
+Minh killed Ringo with p90.
+Rip killed Minh with famas.
+CT bot spawned outside of a buy zone (-448, -768, -506)
+CT bot spawned outside of a buy zone (-324, -776, -506)
+CT bot spawned outside of a buy zone (-492, -864, -506)
+Terrorist bot spawned outside of a buy zone (376, 860, -509)
+Terrorist bot spawned outside of a buy zone (484, 860, -509)
+Terrorist bot spawned outside of a buy zone (-220, 764, -509)
+Stone killed Rip with usp.
+Ringo killed Stone with glock.
+Minh killed Moe with m4a1.
+Ringo killed Zed with glock.
+Ringo killed Minh with m4a1.
+Terrorist bot spawned outside of a buy zone (-252, 860, -506)
+Terrorist bot spawned outside of a buy zone (-448, 768, -511)
+Terrorist bot spawned outside of a buy zone (-480, 864, -506)
+CT bot spawned outside of a buy zone (-348, -872, -509)
+CT bot spawned outside of a buy zone (-240, -876, -509)
+CT bot spawned outside of a buy zone (236, -868, -509)
+Ringo killed Minh with m4a1.
+Stone killed Rip with usp.
+Ringo killed Zed with m4a1.
+Ringo killed Stone with m4a1.
+CT bot spawned outside of a buy zone (356, -868, -506)
+CT bot spawned outside of a buy zone (492, -864, -506)
+CT bot spawned outside of a buy zone (216, -776, -506)
+Terrorist bot spawned outside of a buy zone (-328, 760, -509)
+Terrorist bot spawned outside of a buy zone (-360, 856, -509)
+Terrorist bot spawned outside of a buy zone (224, 768, -509)
+Moe killed Stone with famas.
+Ringo killed Minh with m4a1.
+Zed killed Moe with usp.
+Ringo killed Zed with m4a1.
+Terrorist bot spawned outside of a buy zone (448, 768, -506)
+Terrorist bot spawned outside of a buy zone (340, 768, -506)
+Terrorist bot spawned outside of a buy zone (260, 860, -506)
+CT bot spawned outside of a buy zone (336, -772, -509)
+CT bot spawned outside of a buy zone (448, -768, -509)
+CT bot spawned outside of a buy zone (-216, -780, -509)
+Zed killed Ringo with galil.
+Zed killed Rip with galil.
+Moe killed Zed with m3.
+Moe killed Stone with m3.
+Minh killed Moe with mp5navy.
+CT bot spawned outside of a buy zone (-448, -768, -506)
+CT bot spawned outside of a buy zone (-324, -776, -506)
+CT bot spawned outside of a buy zone (-492, -864, -506)
+Terrorist bot spawned outside of a buy zone (376, 860, -509)
+Terrorist bot spawned outside of a buy zone (484, 860, -509)
+Terrorist bot spawned outside of a buy zone (-220, 764, -509)
+Rip killed Zed with scout.
+Minh killed Rip with mp5navy.
+Ringo killed Minh with m4a1.
+Stone killed Moe with galil.
+Stone killed Ringo with galil.
+CT bot spawned outside of a buy zone (-348, -872, -506)
+CT bot spawned outside of a buy zone (-240, -876, -506)
+CT bot spawned outside of a buy zone (236, -868, -506)
+Terrorist bot spawned outside of a buy zone (-252, 860, -509)
+Terrorist bot spawned outside of a buy zone (-448, 768, -509)
+Terrorist bot spawned outside of a buy zone (-480, 864, -509)
+Ringo killed Zed with glock.
+Minh killed Rip with mac10.
+Ringo killed Minh with glock.
+Moe killed Stone with famas.
+Terrorist bot spawned outside of a buy zone (-328, 760, -506)
+Terrorist bot spawned outside of a buy zone (-360, 856, -506)
+Terrorist bot spawned outside of a buy zone (224, 768, -506)
+CT bot spawned outside of a buy zone (356, -868, -509)
+CT bot spawned outside of a buy zone (492, -864, -509)
+CT bot spawned outside of a buy zone (216, -776, -509)
+Stone killed Rip with usp.
+Minh killed Moe with usp.
+Ringo killed Zed with sg552.
+Stone killed Ringo with usp.
+CT bot spawned outside of a buy zone (336, -772, -506)
+CT bot spawned outside of a buy zone (448, -768, -506)
+CT bot spawned outside of a buy zone (-216, -780, -506)
+Terrorist bot spawned outside of a buy zone (448, 768, -509)
+Terrorist bot spawned outside of a buy zone (340, 768, -509)
+Terrorist bot spawned outside of a buy zone (260, 860, -509)
+Ringo killed Zed with glock.
+Minh killed Moe with sg552.
+Minh killed Ringo with sg552.
+Minh killed Rip with sg552.
+CT bot spawned outside of a buy zone (-448, -768, -506)
+CT bot spawned outside of a buy zone (-324, -776, -506)
+CT bot spawned outside of a buy zone (-492, -864, -506)
+Terrorist bot spawned outside of a buy zone (376, 860, -509)
+Terrorist bot spawned outside of a buy zone (484, 860, -509)
+Terrorist bot spawned outside of a buy zone (-220, 764, -509)
+Zed killed Rip with knife.
+Minh killed Ringo with sg552.
+Moe killed Zed with sg552.
+Stone killed Moe with scout.
+CT bot spawned outside of a buy zone (-348, -872, -506)
+CT bot spawned outside of a buy zone (-240, -876, -506)
+CT bot spawned outside of a buy zone (236, -868, -506)
+Terrorist bot spawned outside of a buy zone (-252, 860, -509)
+Terrorist bot spawned outside of a buy zone (-448, 768, -509)
+Terrorist bot spawned outside of a buy zone (-480, 864, -509)
+Stone killed Rip with scout.
+Minh killed Ringo with p90.
+Moe killed Zed with famas.
+Moe killed Stone with famas.
+Moe killed Minh with famas.
+Terrorist bot spawned outside of a buy zone (-328, 760, -506)
+Terrorist bot spawned outside of a buy zone (-360, 856, -506)
+Terrorist bot spawned outside of a buy zone (224, 768, -506)
+CT bot spawned outside of a buy zone (356, -868, -509)
+CT bot spawned outside of a buy zone (492, -864, -509)
+CT bot spawned outside of a buy zone (216, -776, -509)
+Stone killed Rip with usp.
+Stone killed Moe with usp.
+Stone killed Ringo with usp.
+CT bot spawned outside of a buy zone (336, -772, -506)
+CT bot spawned outside of a buy zone (448, -768, -506)
+CT bot spawned outside of a buy zone (-216, -780, -506)
+Terrorist bot spawned outside of a buy zone (448, 768, -509)
+Terrorist bot spawned outside of a buy zone (340, 768, -509)
+Terrorist bot spawned outside of a buy zone (260, 860, -509)
+Zed killed Moe with usp.
+Ringo killed Zed with m4a1.
+Minh killed Ringo with scout.
+Stone killed Rip with usp.
+Terrorist bot spawned outside of a buy zone (376, 860, -506)
+Terrorist bot spawned outside of a buy zone (484, 860, -511)
+Terrorist bot spawned outside of a buy zone (-220, 764, -506)
+CT bot spawned outside of a buy zone (-448, -768, -509)
+CT bot spawned outside of a buy zone (-324, -776, -509)
+CT bot spawned outside of a buy zone (-492, -864, -509)
+Minh killed Moe with usp.
+Zed killed Rip with usp.
+Ringo killed Minh with m4a1.
+Stone killed Ringo with m3.
+CT bot spawned outside of a buy zone (-348, -872, -506)
+CT bot spawned outside of a buy zone (-240, -876, -506)
+CT bot spawned outside of a buy zone (236, -868, -506)
+Terrorist bot spawned outside of a buy zone (-252, 860, -509)
+Terrorist bot spawned outside of a buy zone (-448, 768, -509)
+Terrorist bot spawned outside of a buy zone (-480, 864, -509)
+Zed killed Ringo with mp5navy.
+Stone killed Rip with usp.
+Zed killed Moe with mp5navy.
+CT bot spawned outside of a buy zone (356, -868, -506)
+CT bot spawned outside of a buy zone (492, -864, -506)
+CT bot spawned outside of a buy zone (216, -776, -506)
+Terrorist bot spawned outside of a buy zone (-328, 760, -509)
+Terrorist bot spawned outside of a buy zone (-360, 856, -509)
+Terrorist bot spawned outside of a buy zone (224, 768, -509)
+Zed killed Moe with mp5navy.
+Minh killed Rip with scout.
+Zed killed Ringo with mp5navy.
+CT bot spawned outside of a buy zone (336, -772, -506)
+CT bot spawned outside of a buy zone (448, -768, -506)
+CT bot spawned outside of a buy zone (-216, -780, -506)
+Terrorist bot spawned outside of a buy zone (448, 768, -509)
+Terrorist bot spawned outside of a buy zone (340, 768, -509)
+Terrorist bot spawned outside of a buy zone (260, 860, -509)
+Ringo killed Zed with glock.
+Stone killed Moe with m3.
+Stone killed Rip with usp.
+Ringo killed Stone with glock.
+Neustart des Spiels in 1 SECOND
+m_face->glyph->bitmap.width is 0 for ch:32 Verdana
+Zed killed Moe with m4a1.
+Zed killed Ringo with m4a1.
+Rip killed Zed with sg552.
+Rip killed Minh with sg552.
+Stone killed Rip with galil.
+CT bot spawned outside of a buy zone (-348, -872, -506)
+CT bot spawned outside of a buy zone (-240, -876, -506)
+CT bot spawned outside of a buy zone (236, -868, -506)
+Terrorist bot spawned outside of a buy zone (-252, 860, -509)
+Terrorist bot spawned outside of a buy zone (-448, 768, -509)
+Terrorist bot spawned outside of a buy zone (-480, 864, -509)
+Ringo killed Zed with glock.
+Moe killed Stone with glock.
+Ringo killed Minh with glock.
+CT bot spawned outside of a buy zone (356, -868, -506)
+CT bot spawned outside of a buy zone (492, -864, -506)
+CT bot spawned outside of a buy zone (216, -776, -506)
+Terrorist bot spawned outside of a buy zone (-328, 760, -509)
+Terrorist bot spawned outside of a buy zone (-360, 856, -511)
+Terrorist bot spawned outside of a buy zone (224, 768, -509)
+Moe killed Zed with m4a1.
+Rip killed Stone with sg552.
+Minh killed Ringo with scout.
+Moe killed Minh with m3.
+Terrorist bot spawned outside of a buy zone (448, 768, -506)
+Terrorist bot spawned outside of a buy zone (340, 768, -506)
+Terrorist bot spawned outside of a buy zone (260, 860, -506)
+CT bot spawned outside of a buy zone (336, -772, -509)
+CT bot spawned outside of a buy zone (448, -768, -509)
+CT bot spawned outside of a buy zone (-216, -780, -509)
+Moe suicided.
+Stone killed Rip with usp.
+Ringo killed Minh with glock.
+Stone killed Ringo with usp.
+CT bot spawned outside of a buy zone (-448, -768, -506)
+CT bot spawned outside of a buy zone (-324, -776, -506)
+CT bot spawned outside of a buy zone (-492, -864, -506)
+Terrorist bot spawned outside of a buy zone (376, 860, -509)
+Terrorist bot spawned outside of a buy zone (484, 860, -509)
+Terrorist bot spawned outside of a buy zone (-220, 764, -509)
+Zed killed Ringo with scout.
+Minh killed Rip with scout.
+Minh killed Moe with scout.
+CT bot spawned outside of a buy zone (-348, -872, -506)
+CT bot spawned outside of a buy zone (-240, -876, -506)
+CT bot spawned outside of a buy zone (236, -868, -506)
+Terrorist bot spawned outside of a buy zone (-252, 860, -509)
+Terrorist bot spawned outside of a buy zone (-448, 768, -509)
+Terrorist bot spawned outside of a buy zone (-480, 864, -509)
+Zed killed Ringo with scout.
+Minh killed Moe with scout.
+Rip killed Minh with glock.
+Zed killed Rip with scout.
+Dropped seyitali from server (Disconnect by user.)
+Dropped Rip from server (Server shutting down)
+Dropped Minh from server (Server shutting down)
+Dropped Ringo from server (Server shutting down)
+Dropped Stone from server (Server shutting down)
+Dropped Moe from server (Server shutting down)
+Dropped Zed from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+Shutdown function ShutdownMixerControls() not in list!!!
