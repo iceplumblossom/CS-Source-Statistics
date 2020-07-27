@@ -23,10 +23,10 @@ m_face->glyph->bitmap.width is 0 for ch:32 DejaVu Sans
 m_face->glyph->bitmap.width is 0 for ch:32 Verdana
 ```
 
-The Script will extract all these type events, create tuples (Mr.Rip, Mr, Steel, mp5navy) and calculate.
-
+The Script will extract all these type events, create tuples (Stone, Rip, m4a1) and calculate.
+```
 Stone killed Rip with m4a1.
-
+```
 It will create an html file and open it with default browser.
 
 Here is an example:
